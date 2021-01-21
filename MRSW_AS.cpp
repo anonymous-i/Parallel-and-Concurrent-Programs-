@@ -1,16 +1,4 @@
-/*
-********************************************************************************************* 
- Atomic MRSW snapshot implementation
- This program implements the Atomic MRSW snapshot wait-free algorithm.
- 
- Submitted by Tahir Ahmed Shaik, CS20MTECH14007, Indian Institute of Technology, Hyderabad
- 
- Date : November 2020
- 
- Course : CS5300 - Parallel And Concurrent Programming
- 
- *********************************************************************************************
- */
+
  
 #include<iostream>
 #include<thread>
