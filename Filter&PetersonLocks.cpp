@@ -1,10 +1,4 @@
-/*
-Topic : Implementing and analysing the performance between locking algorithms between
-        1. Filter Lock
-        2. Peterson Tree Lock
-Author : Tahir Ahmed Shaik
-Date : 
-*/
+
 #include<iostream>
 #include<thread> //The standard thread library for C++ for creation and handling of multiple threads
 #include<fstream> // File management library for input and output of data in files
