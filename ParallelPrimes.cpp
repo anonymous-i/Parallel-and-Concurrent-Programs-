@@ -1,16 +1,4 @@
-//Parallel Load Balancing for Prime Number generation
-/*
-Date : 04/09/2020
 
-Description : This program basically contrasts between the load balancing
-between a dynamic and staic based approaches for prinitng prime numbers
-upto a much larger range of n numbers.
-The dynamic algorithm uses the locks on threads to preserve the concept of 
-mutual exclusion. The static based approach focusses on statically allocat
--ting a range of numbers to each thread statically,
-
-Author : Tahir Ahmed Shaik
-*/
 
 #include<iostream>
 #include<pthread.h>
