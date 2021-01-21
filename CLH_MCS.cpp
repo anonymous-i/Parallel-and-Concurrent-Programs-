@@ -1,12 +1,4 @@
-/*
-Assignment 4 : implementation and Comparison of CLH and MCS locks
 
-Course : CS5300- Parallel and Concurrent Programming
-
-Submitted by : Tahir Ahmed Shaik, CS20MTECH14007, Indian Institute of Technology Hyderabad
-
-Date : 01/12/2020
-*/
 
 #include<iostream>
 #include<thread>
