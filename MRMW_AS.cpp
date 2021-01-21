@@ -1,15 +1,4 @@
-/*
-*********************************************************************************************
-Implementation of the Atomic MRMW Snapshot
 
-Submitted by Tahir Ahmed Shaik, CS20MTECH14007, Indian Institue of Technology Hyderabad
-
-Course : CS5300 Parallel And Concurrent Programming
-
-Date : November 2020
-
-*********************************************************************************************
-*/
 #include<iostream>
 #include<thread>
 #include<fstream>
